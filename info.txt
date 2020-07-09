@@ -1,1 +1,1 @@
-{"user":[{"account":"10047594","password":"sU.123456789","time-limit":"2099/12/31","authority":[1,2,3,4,5,6,99,31,32]},{"account":"for-test-kaohsiung","password":"123456789","time-limit":"2020/07/31","direct":31,"authority":[31]}]}
+{"user":[{"account":"10047594","password":"sU.123456789","time-limit":"2099/12/31","authority":[]},{"account":"for-test-kaohsiung","password":"123456789","time-limit":"2020/07/31","direct":31,"authority":[31]}]}
