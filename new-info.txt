@@ -1,1 +1,1 @@
-{"user":[{"account":"10047594","password":"sU.123456789","authority":[{"type":"1","type-name":"桃園榮總","message":"","start-date":"2020-12-19","valid-date":90}]}]}
+x+CR2oDDiYuqb67LRJtgU0TxdI8w49+FL1xGtPUgbV7R3RpZvRKtiDIOmaT3WSAZgmxulXkhCYg+dyHVHn7A+NOlW6kO3/Lfo1papF8CsXh0lwxHNCc0Rt6LgBELP8StlTj9SNTZ4VWfhHHxjQ/p66ufACmvKhF3AW/MK7kCIiJPIN3NAhfQIwrk5et39XTiJPjL1RS/9GMGWx8w5hnZTUczUuwCz5DQ+xFHSpvorYY=
